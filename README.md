@@ -13,4 +13,4 @@ For example, given array A such that:
   A[1] = 3
   A[2] = 1
   A[3] = 5
-the function should return 4, as it is the missing element.
+the function should return 4, as it is the missing element
